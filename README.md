@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @User6556
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there, I'm Soham 👋  
 
-<!---
-User6556/User6556 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 Full Stack Developer in training | Exploring Cloud ☁️ and Artificial Intelligence 🤖  
+
+I love building things that solve problems, experimenting with new technologies, and sharing what I learn along the way.  
+
+🧠 Currently learning: MERN Stack, Cloud Computing, and AI fundamentals  
+💡 Interests: Tech innovation, open source, and continuous improvement  
+📈 Goal: To grow every day and contribute to impactful projects  
+
+> “Code. Learn. Build. Repeat.”  
+
+Thanks for visiting my profile!  
